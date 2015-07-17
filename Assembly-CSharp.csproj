@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\02.Scripts\DisableNetworkUnlocalplayerBehaviour.cs" />
      <Compile Include="Assets\02.Scripts\MoveCtrl.cs" />
+     <Compile Include="Assets\02.Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\02.Scripts\PlayerID.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
